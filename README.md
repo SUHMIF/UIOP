@@ -9,9 +9,11 @@ Although challenging, it was made necessary for me to learn how to incorporate l
 I made it within editor version Unity 2022.3.34f1, with Rewired made by Guavaman (for input management) as well as LeanTween made by Dented Pixel (for the countdown animation). Additionally, I pitched this to Sunderland College lecturers Matthew Lawson-Hall and Tobias Bowery.
 This project is played by pressing the **U**, **I**, **O**, and **P** keys on a keyboard.
 
-
-<img src="Preview%20Image/UIOP%20Gameplay%20snapshot.jpg" width="512" height="384" >
-Gameplay snapshot
+<img src="Preview%20Image/UIOP%20Gameplay%20GIF.gif" width="512" height="384">
+Gameplay gif
 
 <img src="Preview%20Image/UIOP%20Activity%20Diagram.jpg" width="512" height="384" >
 Activity diagram
+
+<img src="Preview%20Image/UIOP%20Gameplay%20snapshot.jpg" width="512" height="384" >
+Gameplay snapshot
